@@ -1,0 +1,14 @@
+(riemann.bin/-main riemann.config)
+(riemann.bin/-main "riemann.config")
+(riemann.bin/reload!)
+exit
+(riemann.bin/-main riemann.config)
+(riemann.bin/-main 'riemann.config)
+(riemann.bin/-main "riemann.config")
+(riemann.bin/reload!)
+(riemann.bin/-main "riemann.config")
+(riemann.bin/reload!)
+exit
+(riemann.bin/-main "riemann.config")
+(riemann.bin/reload!)
+exit

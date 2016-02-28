@@ -1,0 +1,1 @@
+([:dependencies ([aleph/aleph "0.4.1-beta2"] [riemann/riemann "0.2.10"] [http-kit/http-kit "2.1.18"] [org.clojure/clojure "1.8.0"] [org.clojure/tools.nrepl "0.2.10" :exclusions ([org.clojure/clojure])] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])])])
